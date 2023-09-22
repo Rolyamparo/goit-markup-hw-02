@@ -74,6 +74,11 @@ section.benefits {
     letter-spacing: 0.4px;
 }
 
+ul {
+    margin: 0;
+    padding: 0;
+}
+
 p {
     color: var(--SLATE);
     
@@ -86,6 +91,8 @@ p {
         /* 150% */
         letter-spacing: 0.32px;
         text-align: left;
+        margin: 0;
+        padding: 0;
 }
 li {
     list-style-type: none;
