@@ -10,13 +10,13 @@ h1 {
         font-family: Roboto;
         font-size: 56px;
         font-style: normal;
-        font-weight: 700;
+        font-weight: 200700;
         line-height: 60px;       
         letter-spacing: 1.12px;
-        background-color: var(--NAVY-BLUE);
+        
     }
 .business-name {
-background-color: var(--NAVY-BLUE);
+    background-color: #2E2F42;
 }
 
 h2 {
@@ -74,7 +74,7 @@ section.benefits {
     letter-spacing: 0.4px;
 }
 
-ul {
+ul  {
     margin: 0;
     padding: 0;
 }
@@ -113,7 +113,7 @@ line-height: 3.75em;
 
 button {
     border-radius: 4px;
-    background: var(--IRIS);
+    background: --IRIS:
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     color: var(--WHITE);
