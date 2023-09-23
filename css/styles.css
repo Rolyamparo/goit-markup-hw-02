@@ -46,7 +46,19 @@ h2 {
         text-transform: capitalize;
         font-style: normal;
     }
-
+h3 {
+    /* Header 3 */
+    color: var(--navy-blue);
+    font-family: Roboto;     
+    line-height: 1.5em;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
+    font-style: normal;
+    font-size: 20px;       
+    font-weight: 500;      
+        /* 120% */
+    letter-spacing: 0.4px;
+}
 .logo {
     text-decoration: none;
     color: var(--navy-blue);
